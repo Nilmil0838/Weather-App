@@ -39,7 +39,7 @@ To run the app locally, use the following command:
 ```bash
 python app.py
 ```
-Visit the local host the app is running on in your web browser to access the app.
+Visit the local host that the app is running on in your web browser to access WeatherWiz.
 
 ## Features
 - **Real-time Weather Information:** Get the latest weather updates for any given location.

@@ -26,7 +26,7 @@ To use WeatherWiz, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather app
+   cd weatherwiz
    ```
 3. Install Python dependencies:
    ```bash

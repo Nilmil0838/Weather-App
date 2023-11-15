@@ -22,7 +22,7 @@ To use WeatherWiz, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/WeatherWiz.git
+   git clone https://github.com/Nilmil0838/WeatherWiz.git
    ```
 2. Navigate to the project directory:
    ```bash

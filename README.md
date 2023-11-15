@@ -34,12 +34,12 @@ To use WeatherWiz, follow these steps:
    ```
 
 ### Usage
-Before running the app, make sure you have an account with OpenWeatherMap and have a the API key set in your enviroment variables.
+Before running the app, make sure you have an account with OpenWeatherMap and have an API key set in your environment variables.
 To run the app locally, use the following command:
 ```bash
 python app.py
 ```
-Visit the local host that the app is running on in your web browser to access WeatherWiz.
+Visit the local host on your web browser where the app is running on to access WeatherWiz.
 
 ## Features
 - **Real-time Weather Information:** Get the latest weather updates for any given location.

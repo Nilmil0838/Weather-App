@@ -30,7 +30,7 @@ To use WeatherWiz, follow these steps:
    ```
 3. Install Python dependencies:
    ```bash
-   pip install -r dependences.txt
+   pip install -r dependencies.txt
    ```
 
 ### Usage
